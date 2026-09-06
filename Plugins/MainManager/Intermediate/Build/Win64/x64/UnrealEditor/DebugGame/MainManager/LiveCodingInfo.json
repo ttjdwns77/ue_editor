@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MainManager.cpp.obj": [
+			"ActorQuickManager.cpp.obj",
+			"SQuickSlotWidget.cpp.obj",
+			"CleanupAssets.cpp.obj",
+			"MainManager.cpp.obj"
+		]
+	}
+}
